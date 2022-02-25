@@ -1,0 +1,40 @@
+//backgound color
+
+
+// Theme Colors
+$primary: #0580dc;
+$bg-color : #ffffff;
+$success: #8bc38a;
+
+$warning: #fe764b;
+$info: #83bcbd; 
+$text-muted: #9fa9bc;
+
+
+//button color
+$btn-primary-color : #438ffe;
+
+//icon color
+$font-color-icon: #abb1bf;
+
+
+//header
+$search-bg-color: #f5f7f9;
+
+$text-colors: (
+  "primary": $primary,
+  "warning": $warning,
+  "success": $success,
+  "bg-color": $bg-color,
+  "info": $info
+);
+
+
+//card
+$card: (
+    "card-view": $primary,
+    "card-product": $warning,
+    "card-user": $info,
+    "card-sell":$success
+)
+
